@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cassidy-Sowards
 - 👀 I’m interested in both front-end and back-end application development as well as cloud computing
-- 🌱 I’m currently learning TypeScript, Angular
+- 🌱 I’m currently learning React, Spring Boot, Cassandra
 - 💞️ I’m looking to collaborate on any project I can! 
 - 📫 How to reach me - Email crsowards@outlook.com
 
